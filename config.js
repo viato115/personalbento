@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'WhatsApp',
+			name: 'ChatGPT',
 			icon: 'message-circle',
-			link: 'https://web.whatsapp.com',
+			link: 'https://chat.openai.com',
 		},
 		{
 			id: '6',
