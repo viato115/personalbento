@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Gitlab',
-			icon: 'gitlab',
-			link: 'https://gitlab.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
+			name: 'Google Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
-			name: 'ChatGPT',
-			icon: 'message-circle',
-			link: 'https://chat.openai.com',
-		},
-		{
-			id: '6',
+			id: '4',
 			name: 'Google Drive',
 			icon: 'hard-drive',
 			link: 'https://drive.google.com/',
+		},
+		{
+			id: '5',
+			name: 'Snapdrop',
+			icon: 'nfc',
+			link: 'https://snapdrop.net',
+		},
+		{
+			id: '6',
+			name: 'ChatGPT',
+			icon: 'message-circle',
+			link: 'https://chat.openai.com',
 		},
 	],
 
