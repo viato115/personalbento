@@ -41,7 +41,8 @@
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  /* --sfg: #2c292e; /* Secondary Foreground color */
+   --sfg: #1a1b26; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
