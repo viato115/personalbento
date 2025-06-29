@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://search.nixos.org/packages',
 				},
 				{
-					name: 'Amboss',
-					link: 'https://next.amboss.com/de',
+					name: 'Pico-CTF',
+					link: 'https://picoctf.org/',
 				},
 				{
-					name: 'Mangadex',
-					link: 'https://mangadex.org/',
+					name: 'Amboss',
+					link: 'https://next.amboss.com/de',
 				},
 			],
 		},
